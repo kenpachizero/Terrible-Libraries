@@ -1,0 +1,8 @@
+[package]
+name = "terrible"
+version = "0.1.0"
+edition = "2021"
+description = "Intentionally terrible implementations of common functions"
+license = "WTFPL"
+
+[dependencies]
